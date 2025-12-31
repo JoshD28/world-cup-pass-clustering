@@ -1,8 +1,8 @@
 # Soccer Pass Clustering
 
-This repository contains a course lab focused on **clustering soccer passing patterns** using **event-level data**. The objective is to identify and interpret common pass locations and spatial structures through unsupervised learning methods.
+This repository focused on **clustering soccer passing patterns** using **event-level data**. The objective is to identify and interpret common pass locations and spatial structures through unsupervised learning methods.
 
-## Lab Goals
+##Goals
 1. **Preprocess and extract pass event data** from a soccer match dataset.
 2. **Apply clustering techniques** to group passes based on their spatial characteristics.
 3. **Visualize clustered pass patterns** on a soccer pitch.
@@ -46,5 +46,5 @@ This repository contains a course lab focused on **clustering soccer passing pat
 - scikit-learn
 
 ## Notes
-This lab uses **unsupervised clustering** to explore spatial passing structure.  
+**Unsupervised clustering** was used to explore spatial passing structure.  
 Clusters represent **similar pass locations or patterns**, not pass quality or effectiveness.
