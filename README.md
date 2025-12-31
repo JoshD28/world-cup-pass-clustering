@@ -2,7 +2,7 @@
 
 This repository focused on **clustering soccer passing patterns** using **event-level data**. The objective is to identify and interpret common pass locations and spatial structures through unsupervised learning methods.
 
-##Goals
+## Goals
 1. **Preprocess and extract pass event data** from a soccer match dataset.
 2. **Apply clustering techniques** to group passes based on their spatial characteristics.
 3. **Visualize clustered pass patterns** on a soccer pitch.
